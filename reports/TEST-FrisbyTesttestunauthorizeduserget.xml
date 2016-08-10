@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Frisby Test: test unauthorized user : get" errors="0" tests="1" failures="0" time="1.103" timestamp="2016-08-09T23:05:44">
-  <testcase classname="Frisby Test: test unauthorized user : get" name="
-	[ GET https://shielded-river-86069.herokuapp.com/contacts/ ]" time="1.102"></testcase>
-</testsuite>
-</testsuites>

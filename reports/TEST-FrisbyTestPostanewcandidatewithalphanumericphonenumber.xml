@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Frisby Test:  Post a new candidate with alpha numeric phone number " errors="0" tests="1" failures="0" time="0.365" timestamp="2016-08-10T00:04:49">
-  <testcase classname="Frisby Test:  Post a new candidate with alpha numeric phone number " name="
-	[ POST https://shielded-river-86069.herokuapp.com/contacts/ ]" time="0.364"></testcase>
-</testsuite>
-</testsuites>

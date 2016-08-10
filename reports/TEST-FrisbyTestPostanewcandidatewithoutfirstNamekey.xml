@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Frisby Test:  Post a new candidate without firstName key " errors="0" tests="1" failures="0" time="0.593" timestamp="2016-08-10T00:04:47">
-  <testcase classname="Frisby Test:  Post a new candidate without firstName key " name="
-	[ POST https://shielded-river-86069.herokuapp.com/contacts/ ]" time="0.589"></testcase>
-</testsuite>
-</testsuites>

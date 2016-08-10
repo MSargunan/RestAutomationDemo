@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Frisby Test:  Put/Update An Existing Candidate " errors="0" tests="1" failures="0" time="0.234" timestamp="2016-08-09T23:28:02">
-  <testcase classname="Frisby Test:  Put/Update An Existing Candidate " name="
-	[ PUT https://shielded-river-86069.herokuapp.com/contacts/57aaad53a6c9650003c28858 ]" time="0.233"></testcase>
-</testsuite>
-</testsuites>

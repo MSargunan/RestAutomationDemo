@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuites>
-<testsuite name="Frisby Test:  Get A New Candidate Just Posted " errors="0" tests="1" failures="0" time="0.221" timestamp="2016-08-09T23:28:02">
-  <testcase classname="Frisby Test:  Get A New Candidate Just Posted " name="
-	[ GET https://shielded-river-86069.herokuapp.com/contacts/57aaad53a6c9650003c28858 ]" time="0.22"></testcase>
-</testsuite>
-</testsuites>

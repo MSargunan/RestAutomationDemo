@@ -42,7 +42,7 @@ frisby.create(' Post A New Candidate ')
         lastName: String,
         email: String,
         phoneNumber: String,
-        createDate: String
+        createDate: Date
       })
       // Validate if the returned candidate information matches with the one we posted in Scenario 1
       .expectJSON(newUser)
