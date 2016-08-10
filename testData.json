@@ -1,0 +1,144 @@
+{
+    "noFirstName": {
+        "data": {
+            "lastName": "Tom",
+            "email": "Tim@lab.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a first name."
+        }
+    },
+    "firstNameEmpty": {
+        "data": {
+            "firstName": "",
+            "lastName": "Tom",
+            "email": "Tim@lab.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a first name."
+        }
+    },
+    "firstNameBlankSpaces": {
+        "data": {
+            "firstName": "  ",
+            "lastName": "Tom",
+            "email": "Tim@lab.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a first name."
+        }
+    },
+    "noLastName": {
+        "data": {
+            "firstName": "Tom",
+            "email": "Tim@lab.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a last name."
+        }
+    },
+    "lastNameEmpty": {
+        "data": {
+            "firstName": "Tom",
+            "lastName": "",
+            "email": "Tim@lab.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a last name."
+        }
+    },
+    "lastNameBlankSpaces": {
+        "data": {
+            "firstName": "Tom",
+            "lastName": "  ",
+            "email": "Tim@lab.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a last name."
+        }
+    },
+    "noEmail": {
+        "data": {
+            "firstName": "Tom",
+            "lastName": "Tom",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a email."
+        }
+    },
+    "emailEmpty": {
+        "data": {
+            "firstName": "Tom",
+            "lastName": "Tom",
+            "email": "",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a email."
+        }
+    },
+    "emailBlankSpaces": {
+        "data": {
+            "firstName": "Tom",
+            "lastName": "Tom",
+            "email": "  ",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a valid email."
+        }
+    },
+
+     "emailInvalidFormat": {
+        "data": {
+            "firstName" : "Tom",
+            "lastName": "Tom",
+            "email" : "abc.com",
+            "phoneNumber": "1234567890"
+        },
+        "error": {
+            "error": "Must provide a valid email."
+        }
+    },
+
+     "noPhoneNumber": {
+        "data": {
+            "firstName" : "Tom",
+            "lastName": "Tom",
+            "email" : "abc@gmail.com"
+        },
+        "error": {
+            "error": "Must provide a valid phone number."
+        }
+    },
+
+    "phoneNumberAlphaNumeric": {
+        "data": {
+            "firstName" : "Tom",
+            "lastName": "Tom",
+            "email" : "abc@gmail.com",
+            "phoneNumber": "123abc"
+        },
+        "error": {
+            "error": "Must provide a valid phone number."
+        }
+    },
+     "phoneNumberLessThan10Digits": {
+        "data": {
+            "firstName" : "Tom",
+            "lastName": "Tom",
+            "email" : "abc@gmail.com",
+            "phoneNumber": "210210000"
+        },
+        "error": {
+            "error": "Must provide a valid phone number."
+        }
+    }
+}

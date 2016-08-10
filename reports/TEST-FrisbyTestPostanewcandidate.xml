@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test:  Post A New Candidate " errors="0" tests="1" failures="0" time="0.787" timestamp="2016-08-09T23:38:02">
+  <testcase classname="Frisby Test:  Post A New Candidate " name="
+	[ POST https://shielded-river-86069.herokuapp.com/contacts/ ]" time="0.783"></testcase>
+</testsuite>
+</testsuites>
